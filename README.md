@@ -108,7 +108,7 @@ enquanto evoluo junto à equipe.
     alt="GitHub Stats"
     height ="200" 
     style="padding-right: 10px;" 
-   src = "https://github-readme-stats.vercel.app/api?username=AlcidesNeto32&show_icons=true&theme=tokyonight&locale=pt-br"
+   src = "https://github-stats-extended.vercel.app/api?username=AlcidesNeto32&theme=tokyonight"
 />
 
   <img 
@@ -116,5 +116,5 @@ enquanto evoluo junto à equipe.
     alt="GitHub Stats"
     height ="200"
     style="padding-right: 10px;" 
-   src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlcidesNeto32&theme=tokyonight"
+   src = "https://github-stats-extended.vercel.app/api/top-langs/?username=AlcidesNeto32&size_weight=0.5&count_weight=0.5&theme=tokyonight"
 />
