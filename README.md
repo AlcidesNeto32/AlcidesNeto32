@@ -1,7 +1,7 @@
 # 👨‍💻 Alcides Neto
 **`Desenvolvedor BackEnd`**
 
-Me chamo Alcides Germano da Costa Neto, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Tenho conhecimentos práticos em Java, PHP, Python, SQL. Com
+Me chamo Alcides Germano da Costa Neto, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Tenho conhecimentos práticos em Java, Python,Golang SQL. Com
 perfil proativo e boa lógica de programação, busco contribuir com soluções técnicas
 enquanto evoluo junto à equipe.
 
